@@ -54,7 +54,7 @@ Dr. Feifei Wang, Post doctor of School of Statistics, Renmin University of China
 I propose a model based on LDA model, which can help our group to make better emotion analysis. We pay attention to whether people are aware of the problem on active healthy living and the aging population and the topics they may concern.   
 
 ## Internship
-### Xiaomi Technology Co. LTD    Beijing, China　　　Nov 2019 - Feb 2020
+### Xiaomi Technology Co. LTD　　　Beijing, China　　　Nov 2019 - Feb 2020
 ### Data Analysis Intern
 To be in charge of the data about the Xiaomi Overseas App Store (GetApps)  
 To save those data by Hive, whose codes are similar to SQL  
