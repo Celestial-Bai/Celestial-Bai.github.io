@@ -7,7 +7,7 @@
       <p><b>邮箱：mercy@ruc.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/Profile.jpg" width="100%">      % 插入证件照代码
+      <img src="/Profile.jpg" width="100%">   
     </td>
   </tr>
 </table>
