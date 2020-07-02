@@ -71,3 +71,13 @@ Helped them to find the errors about the APP by running it on several kinds of s
 ### Summer Session 2018, University of California, Berkeley   Jul 2018 - Aug 2018
 Did great work during the exchange program and got high scores:
 Probability and Statistics in Biology and Public Health (A+) Introduction to Neuroscience (A+)
+
+## More
+### Programming Skills & Software
+C(Matered), Python(Basic), Visual Basic(Matered), MySQL(Proficient), R(Proficient), HiveSQL(Proficient), SPSS(Proficient), Stata(Proficient), Office(Proficient)
+### Languages
+Mandarin Chinese(Native), English (Fluent), Japanese(Basic)
+### Personal Interests
+Photography: I like taking photos by camera. I have a SONY a7m3
+Orienteering: I was assistant captain of the orienteering team when I was in high school
+Esports: I am the fan of Shanghai Dragons and I also made some assistance for them before.
