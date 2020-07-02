@@ -16,7 +16,7 @@
 ## News
 1. Recently I have graduated from School of Statistics, Renmin University of China. (2020-6-30)
 2. I sent my documents about applications to the University of Tokyo. If everything goes smoothly, I will be the Research Student of Imoto Lab, Human Genome Center, Institute of Medical Science, the University of Tokyo. (2020-4-28)
-3. I have finished my graduation thesis and you can read it from RUC Library. I should say thank you to my advisor, Yang Li. Moreover, Prof. Feifei Wang, Prof. Danlin Yu and Prof. Yaozhong Zhang also gave me lots of help. (2020-4-17)
+3. I have finished my graduation thesis and you can read it from RUC Library. I should say thank you to my advisor, Yang Li. Moreover, Prof. Feifei Wang, Prof. Danlin Yu and Prof. Yaozhong Zhang also gave me lots of help. Thank you for your efforts.(2020-4-17)
 
 ## Research Interests
 Mathematical Statistics, Biostatistics, Bioinformatics, Machine Learning & Deep Learning, Applied Statistics
