@@ -16,7 +16,7 @@
 ## News
 1. Today I received the official acceptance from the University of Tokyo, so from October I will be the Research Student of Imoto Lab, Human Genome Center, Institute of Medical Science, the University of Tokyo. (2020-07-03)
 2. Recently I have graduated from School of Statistics, Renmin University of China. (2020-06-30)
-3. I have finished my graduation thesis and you can read it from RUC Library. I should say thank you to my advisor, Yang Li. Moreover, Prof. Feifei Wang, Prof. Danlin Yu and Prof. Yaozhong Zhang also gave me lots of help. Thank you for your efforts.(2020-04-17)
+3. I have finished my graduation thesis and you can read it from RUC Library. I should say thank you to my advisor, Prof. Yang Li. Moreover, Prof. Feifei Wang, Prof. Danlin Yu and Prof. Yaozhong Zhang also gave me lots of help. Thank you for your efforts.(2020-04-17)
 
 ## Research Interests
 Mathematical Statistics, Biostatistics, Bioinformatics, Machine Learning & Deep Learning, Applied Statistics
@@ -27,7 +27,7 @@ Mathematical Statistics, Biostatistics, Bioinformatics, Machine Learning & Deep 
 ### Research assistant, Advisor: 
 Prof. Yang Li, Vice Dean of School of Statistics, Renmin University of China  
 Prof. Ben-Chang Shia, Vice Precident, Fu Jen Catholic University  
-Dr. Feifei Wang, Post doctor of School of Statistics, Renmin University of China  
+Prof. Feifei Wang, Lecturer of School of Statistics, Renmin University of China  
 #### Data visualization on air quality and climate data in Taiwan
 Get data by web crawler with Python and clean them with R  
 Grouping the data by each year and each district, make heat map of every year, every month, even every day to analyze their variation on air quality. Find relationship between air quality and climate (temperature, humidity, wind speed)  
@@ -49,7 +49,7 @@ Improved and corrected them, and made further understanding about the situation 
 ### Renmin University of China, Beijing, China 
 ### Research assistant, Supervisor:
 Prof. Xiaojun Wang, Dean of School of Statistics, Renmin University of China  
-Dr. Feifei Wang, Post doctor of School of Statistics, Renmin University of China   
+Prof. Feifei Wang, Lecturer of School of Statistics, Renmin University of China  
 #### Emotion analysis based on LDA model
 I propose a model based on LDA model, which can help our group to make better emotion analysis. We pay attention to whether people are aware of the problem on active healthy living and the aging population and the topics they may concern.   
 
