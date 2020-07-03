@@ -14,7 +14,7 @@
 </table>
 
 ## News
-1. Today I received the official acceptance from the University of Tokyo, so from October I will be the Research Student of Imoto Lab, Human Genome Center, Institute of Medical Science, the University of Tokyo. (2020-07-03)
+1. Today I received the official acceptance from the University of Tokyo, so from October I will be the Research Student of Imoto Lab, Human Genome Center, Institute of Medical Science, the University of Tokyo. I will still use RUC email until I have my own UTokyo email. (2020-07-03)
 2. Recently I have graduated from School of Statistics, Renmin University of China. (2020-06-30)
 3. I have finished my graduation thesis and you can read it from RUC Library. I should say thank you to my advisor, Prof. Yang Li. Moreover, Prof. Feifei Wang, Prof. Danlin Yu and Prof. Yaozhong Zhang also gave me lots of help. Thank you for your efforts.(2020-04-17)
 
