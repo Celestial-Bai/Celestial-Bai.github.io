@@ -4,7 +4,7 @@
       <h1>Zeheng Bai</h1>
       <p><b>International Research Student</b></p>
       <p><b>Department of Computer Science</b></p>
-      <p><b>the University of Tokyo</b></p>
+      <p><b>The University of Tokyo</b></p>
       <p><b> Mail：mercy@ruc.edu.cn</b></p>
     </td>
     <td width="25%">
