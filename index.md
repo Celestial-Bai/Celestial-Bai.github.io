@@ -19,6 +19,12 @@
 3. Recently I have graduated from School of Statistics, Renmin University of China. (2020-06-30)
 4. I have finished my graduation thesis and you can read it from RUC Library. I should say thank you to my advisor, Prof. Yang Li. Moreover, Prof. Feifei Wang, Prof. Danlin Yu and Prof. Yaozhong Zhang also gave me lots of help. Thank you for your efforts.(2020-04-17)
 
+## Background
+Master Degree, Department of Computer Science, Graduate School of Information Science and Technology, the University of Tokyo　　　 2021 - 2023
+Research Student, Graduate School of Information Science and Technology & Institute of Medical Science, the University of Tokyo　　　 2020 - 2021
+Bachelor Degree, (Mathematical) Statistics, School of Statistics, Renmin University of China　　　 2016 - 2020
+Graduated from Beijing Experimental High School Attached to Beijing Normal University　　　 2013 - 2016
+
 ## Research Interests
 Mathematical Statistics, Biostatistics, Bioinformatics, Machine Learning & Deep Learning, Applied Statistics
 
