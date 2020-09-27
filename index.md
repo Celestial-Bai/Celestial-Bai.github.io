@@ -35,21 +35,22 @@ Mathematical Statistics, Biostatistics, Bioinformatics, Machine Learning & Deep 
 Prof. Yang Li, Vice Dean of School of Statistics, Renmin University of China  
 Prof. Ben-Chang Shia, Vice Precident, Fu Jen Catholic University  
 Prof. Feifei Wang, Lecturer of School of Statistics, Renmin University of China  
-#### Data visualization on air quality and climate data in Taiwan
-Get data by web crawler with Python and clean them with R  
-Grouping the data by each year and each district, make heat map of every year, every month, even every day to analyze their variation on air quality. Find relationship between air quality and climate (temperature, humidity, wind speed)  
-#### Using several kinds of methods to analysis the key factors that influence the diseases in Taiwan
-In the past, we have made some achievements. We found that PM2.5 has positive relation to hospital visit rate of respiratory diseases using disease-mapping model. Using variable coefficient regression, we also found that epidemic diseases has some relationship with location and some spatial elements.  
-We now contribute to discover some other diseases that have close relationship with air quality by word mining, and try to use some new methods, such as prior lasso, zero-inflated count models, to analysis epidemic diseases in other area or countries, like the United States  
-I will teach the new members about data visualization make some improvements of the codes and make great progress of the coding ability.  
+Got the each-hour data of the climate of Taiwan from 2010 to 2018 by web crawler using Python and joined the data of the climate and air quality of Taiwan according to the same watch points using R  
+Found outliers by the rules we had made before, change them to K-means value by close-time data   
+Got the everyday and every-month data of each district of Taiwan from 2010 to 2018 calculated by the each-hour data of the climate of Taiwan based on Kriging using R   
+Made heat maps of the everyday and every-month data of each district of Taiwan, density plots of data of the climate of each district of Taiwan, and correlation scatter plots between the climate and air quality  
+Found the relationship between air quality and respiratory diseases using disease mapping and variable coefficient regression  
+Taught the new members about data visualization make some improvements of the codes and make great progress of the coding ability; We could finish the whole task of data cleaning and data visualization in only one day  
 
 ### Report: Traditional Chinese Medicine Big Data 2019　　　Jul 2019 - Nov 2019 
 ### Peking University, Beijing, China 
 ### Research assistant, Supervisor: 
-Prof. Xiaohua Zhou, Director of Department of Biostatistics, Peking University, Director of TCM Big Data Center Xinting Huang, Assistant Director of TCM Big Data Center  
-#### Finished the report "Traditional Chinese Medical Science & Big Data 2019: Chapter Companies"
-Got the data of the programs about Traditional Chinese Medicine Big Data carried on by Chinese companies by web crawler using Python  
+Prof. Xiaohua Zhou, Director of Department of Biostatistics, Peking University, Director of TCM Big Data Center  
+Dr. Xinting Huang, Assistant Director of TCM Big Data Center  
+Got the data of the programs about Traditional Chinese Medicine Big Data carried on by Chinese companies by web crawler using Python   
 Improved and corrected them, and made further understanding about the situation of Traditional Chinese Medicine Big Data by surveys using email  
+Finished the report "Traditional Chinese Medical Science & Big Data 2019: Chapter Companies  
+
 
 
 ### Active Healthy Living and the Aging Population in China　　　Jun 2019 - Jul 2019
@@ -57,8 +58,9 @@ Improved and corrected them, and made further understanding about the situation 
 ### Research assistant, Supervisor:
 Prof. Xiaojun Wang, Dean of School of Statistics, Renmin University of China  
 Prof. Feifei Wang, Lecturer of School of Statistics, Renmin University of China  
-#### Emotion analysis based on LDA model
-I propose a model based on LDA model, which can help our group to make better emotion analysis. We pay attention to whether people are aware of the problem on active healthy living and the aging population and the topics they may concern.   
+Got the data about people's feeling towards the Active Healthy Living and the Aging Population in China by Distributed Web Crawler using Python  
+Proposed an improved emotion analysis model which was more suitable for our project based on LDA Model  
+
 
 ## Internship
 ### Xiaomi Technology Co. LTD　　　Beijing, China　　　Nov 2019 - Feb 2020
