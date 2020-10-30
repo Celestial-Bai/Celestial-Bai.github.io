@@ -5,7 +5,7 @@
       <p><b>International Research Student & Master</b></p>
       <p><b>Department of Computer Science</b></p>
       <p><b>The University of Tokyo</b></p>
-      <p><b> Mail：zeheng@hgc.jp</b></p>
+      <p><b> Mail：zeheng@hgc.jp or mercy@ruc.edu.cn</b></p>
     </td>
     <td width="25%">
       <img src="/Profile.jpg" width="100%">   
