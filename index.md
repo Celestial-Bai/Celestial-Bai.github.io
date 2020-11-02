@@ -5,8 +5,8 @@
       <p><b>International Research Student & Master</b></p>
       <p><b>Department of Computer Science</b></p>
       <p><b>The University of Tokyo</b></p>
-      <p><b> Mail：\\
-      <img src="/mail.png" width="15%">  or mercy@ruc.edu.cn</b></p>
+      <p><b> Mail：<br/>
+      <img src="/mail.png" width="15%"></b></p>
     </td>
     <td width="25%">
       <img src="/Profile.jpg" width="100%">   
