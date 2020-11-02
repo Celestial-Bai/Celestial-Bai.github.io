@@ -8,7 +8,6 @@
       <p><b> Mail：<br/>
       <img src="/mail.png" width="15%"></b></p>
       <p><b> Profile：[English Version](https://www.overleaf.com/download/project/5f9fc54376491e00015142fd/build/1758826ac3b-88101a5c40e9c918/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-n1-c-d8cg&popupDownload=true)
-      <img src="/mail.png" width="15%"></b></p>
     </td>
     <td width="25%">
       <img src="/Profile.jpg" width="100%">   
