@@ -33,6 +33,18 @@ Graduated from Beijing Experimental High School Attached to Beijing Normal Unive
 Mathematical Statistics, Biostatistics, Bioinformatics, Machine Learning & Deep Learning, Applied Statistics
 
 ## Research Experience
+### Test and improvements for VIBRANT　　　Oct 2020 - Present
+### The University of Tokyo, Tokyo, Japan 
+### Research assistant, Advisor: 
+Prof. Seiya Imoto, Professor of Human Genome Center, Institute of Medical Science, The University of Tokyo
+Prof. Yaozhong Zhang, Associate Professor of Human Genome Center, Institute of Medical Science, The University
+of Tokyo 
+Made deep understanding of whole pipline of VIBRANT by using Docker and Ubuntu
+Made familiar with popular tools or models for recognizing the category of genome, such as VirSorter, VirFinder,
+MARVEL, VIBRANT
+Ran some example to test VIBRANT by using supercomputer
+Made some assumptions try to improve VIBRANT, like using XGBoost or XLNet
+
 ### The Relationship between Air Quality and Epidemic Diseases in Taiwan　　　Nov 2018 - Jul 2020
 ### Renmin University of China, Beijing, China 
 ### Research assistant, Advisor: 
@@ -66,16 +78,23 @@ Got the data about people's feeling towards the Active Healthy Living and the Ag
 Proposed an improved emotion analysis model which was more suitable for our project based on LDA Model  
 
 
-## Internship
+## Internships
+### Meituan Co. LTD　　　Beijing, China　　　Oct 2020 - Feb 2021
+### Data Product Manager Intern
+Standardized the naming and definition of metrics
+Provided data sheets for the company leaders
+Guaranteed the timeliness of the output of daily newspapers and standardized the procedures about the process of
+guarantee
+
 ### Xiaomi Technology Co. LTD　　　Beijing, China　　　Nov 2019 - Feb 2020
-### Data Analysis Intern
+### Data Analyst Intern
 To be in charge of the data about the Xiaomi Overseas App Store (GetApps)  
 To save those data by Hive, whose codes are similar to SQL  
 To make the reports on the strategies this can increase our income from Mi App Store  
 I also make some attempts on other approaches, like LSTM, and I also improved some codes on Mi Data Factory System.  
 
 ### China Railway Construction Investment Fund Management Co., Ltd.　　　Beijing, China　　　Jan 2019 - Feb 2019
-### Software Engineering Internship, Section of Technology and Development 
+### Software Engineer Intern, Section of Technology and Development 
 Got familiar with the functions of the APP (China Railway Construction Financial Services)  
 Tried to understand the codes of the APP  
 Helped them to find the errors about the APP by running it on several kinds of smart phones  
