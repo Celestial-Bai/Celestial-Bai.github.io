@@ -83,6 +83,7 @@ Proposed an improved emotion analysis model which was more suitable for our proj
 ### Data Product Manager Intern
 Standardized the naming and definition of metrics
 Provided data sheets for the company leaders
+Completed iteration of data products
 Guaranteed the timeliness of the output of daily newspapers and standardized the procedures about the process of
 guarantee
 
