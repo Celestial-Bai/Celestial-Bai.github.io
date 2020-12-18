@@ -6,7 +6,7 @@
       <p><b>Department of Computer Science</b></p>
       <p><b>The University of Tokyo</b></p>
       <p><b> Mail：<br/>
-      <img src="/mail.png" width="15%"></b></p>
+      <img src="/mail.png" width="20%"></b></p>
     </td>
     <td width="25%">
       <img src="/Profile.jpg" width="100%">   
@@ -14,8 +14,8 @@
   </tr>
 </table>
 
-profile (editing now): [English Version](https://www.overleaf.com/download/project/5f9fc54376491e00015142fd/build/17674037043-866c5392ff30c90f/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-e2-c-14dk&popupDownload=true)
-[中文](https://www.overleaf.com/download/project/5fdb515ec2e4b55d77737aeb/build/1767402c95e-be00c1e1198e1a05/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-n1-c-bb67&popupDownload=true)
+Profile: [English Version](https://www.overleaf.com/download/project/5f9fc54376491e00015142fd/build/17674037043-866c5392ff30c90f/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-e2-c-14dk&popupDownload=true)
+[中文](https://www.overleaf.com/download/project/5fdb515ec2e4b55d77737aeb/build/176766e4655-c1c5e5789113c51d/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-n1-c-bb67&popupDownload=true)
 
 ## News
 1. Today I pass the exam of IST summer entrance examination, the University of Tokyo, so from October I will be the Research Student of Imoto Lab, Human Genome Center, Institute of Medical Science, the University of Tokyo. I will get further study from April 2021. (2020-08-31)
