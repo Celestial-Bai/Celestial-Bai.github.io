@@ -15,7 +15,7 @@
 </table>
 
 profile (editing now): [English Version](https://www.overleaf.com/download/project/5f9fc54376491e00015142fd/build/1758826ac3b-88101a5c40e9c918/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-n1-c-d8cg&popupDownload=true)
-[中文](https://www.overleaf.com/download/project/5fdb515ec2e4b55d77737aeb/build/176740170c7-7d48c603ebfc1991/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-n1-c-bb67&popupDownload=true)
+[中文](https://www.overleaf.com/download/project/5fdb515ec2e4b55d77737aeb/build/1767402c95e-be00c1e1198e1a05/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-n1-c-bb67&popupDownload=true)
 
 ## News
 1. Today I pass the exam of IST summer entrance examination, the University of Tokyo, so from October I will be the Research Student of Imoto Lab, Human Genome Center, Institute of Medical Science, the University of Tokyo. I will get further study from April 2021. (2020-08-31)
