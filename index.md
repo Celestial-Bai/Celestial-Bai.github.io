@@ -36,14 +36,14 @@ Mathematical Statistics, Biostatistics, Bioinformatics, Machine Learning & Deep 
 ### Test and improvements for VIBRANT　　　Oct 2020 - Present
 ### The University of Tokyo, Tokyo, Japan 
 ### Research assistant, Advisor: 
-Prof. Seiya Imoto, Professor of Human Genome Center, Institute of Medical Science, The University of Tokyo
+Prof. Seiya Imoto, Professor of Human Genome Center, Institute of Medical Science, The University of Tokyo  
 Prof. Yaozhong Zhang, Associate Professor of Human Genome Center, Institute of Medical Science, The University
-of Tokyo 
-Made deep understanding of whole pipline of VIBRANT by using Docker and Ubuntu
+of Tokyo  
+Made deep understanding of whole pipline of VIBRANT by using Docker and Ubuntu  
 Made familiar with popular tools or models for recognizing the category of genome, such as VirSorter, VirFinder,
-MARVEL, VIBRANT
-Ran some example to test VIBRANT by using supercomputer
-Made some assumptions try to improve VIBRANT, like using XGBoost or XLNet
+MARVEL, VIBRANT  
+Ran some example to test VIBRANT by using supercomputer  
+Made some assumptions try to improve VIBRANT, like using XGBoost or XLNet  
 
 ### The Relationship between Air Quality and Epidemic Diseases in Taiwan　　　Nov 2018 - Jul 2020
 ### Renmin University of China, Beijing, China 
