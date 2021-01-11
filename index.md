@@ -18,10 +18,11 @@ Profile: [English Version](https://www.overleaf.com/download/project/5f9fc543764
 [中文](https://www.overleaf.com/download/project/5fdb515ec2e4b55d77737aeb/build/176766e4655-c1c5e5789113c51d/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-n1-c-bb67&popupDownload=true)
 
 ## News
-1. Today I pass the exam of IST summer entrance examination, the University of Tokyo, so from October I will be the Research Student of Imoto Lab, Human Genome Center, Institute of Medical Science, the University of Tokyo. I will get further study from April 2021. (2020-08-31)
-2. Today I received the official acceptance from the University of Tokyo, so from October I will be the Research Student of Imoto Lab, Human Genome Center, Institute of Medical Science, the University of Tokyo. I will still use RUC email until I have my own UTokyo email. (2020-07-03)
-3. Recently I have graduated from School of Statistics, Renmin University of China. (2020-06-30)
-4. I have finished my graduation thesis and you can read it from RUC Library. I should say thank you to my advisor, Prof. Yang Li. Moreover, Prof. Feifei Wang, Prof. Danlin Yu and Prof. Yaozhong Zhang also gave me lots of help. Thank you for your efforts.(2020-04-17)
+1. R.I.P for Yiran Fan. He is a distinct alumni of our high school. (2021-01-11)
+2. Today I pass the exam of IST summer entrance examination, the University of Tokyo, so from October I will be the Research Student of Imoto Lab, Human Genome Center, Institute of Medical Science, the University of Tokyo. I will get further study from April 2021. (2020-08-31)
+3. Today I received the official acceptance from the University of Tokyo, so from October I will be the Research Student of Imoto Lab, Human Genome Center, Institute of Medical Science, the University of Tokyo. I will still use RUC email until I have my own UTokyo email. (2020-07-03)
+4. Recently I have graduated from School of Statistics, Renmin University of China. (2020-06-30)
+5. I have finished my graduation thesis and you can read it from RUC Library. I should say thank you to my advisor, Prof. Yang Li. Moreover, Prof. Feifei Wang, Prof. Danlin Yu and Prof. Yaozhong Zhang also gave me lots of help. Thank you for your efforts.(2020-04-17)
 
 ## Background
 Master Degree, Department of Computer Science, Graduate School of Information Science and Technology, the University of Tokyo　　　 2021 - 2023  
