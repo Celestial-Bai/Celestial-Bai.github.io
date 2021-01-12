@@ -14,8 +14,8 @@
   </tr>
 </table>
 
-Profile: [English Version](https://www.overleaf.com/download/project/5f9fc54376491e00015142fd/build/17674037043-866c5392ff30c90f/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-e2-c-14dk&popupDownload=true)
-[中文](https://www.overleaf.com/download/project/5fdb515ec2e4b55d77737aeb/build/176766e4655-c1c5e5789113c51d/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-n1-c-bb67&popupDownload=true)
+Profile: [English Version](https://github.com/Celestial-Bai/Celestial-Bai.github.io/raw/master/Resume.pdf)
+[中文](https://github.com/Celestial-Bai/Celestial-Bai.github.io/raw/master/%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86.pdf)
 
 ## News
 1. R.I.P for Yiran Fan. He is a distinct alumni of our high school. (2021-01-11)
