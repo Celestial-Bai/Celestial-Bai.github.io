@@ -13,15 +13,15 @@ tags:								#标签
 
 <table border="0">
   <tr>
-    <td width="65%">
+    <td width="60%">
       <h1>Zeheng Bai</h1>
       <p><b>M1 Student</b></p>
       <p><b>Department of Computer Science</b></p>
       <p><b>The University of Tokyo</b></p>
       <p><b> Mail：<br/>
-      <img src="https://github.com/Celestial-Bai/Celestial-Bai.github.io/raw/master/mail.png" width="50%"></b></p>
+      <img src="https://github.com/Celestial-Bai/Celestial-Bai.github.io/raw/master/mail.png" width="70%"></b></p>
     </td>
-    <td width="35%">
+    <td width="40%">
       <img src="https://github.com/Celestial-Bai/Celestial-Bai.github.io/raw/master/Profile.jpg" width="100%">   
     </td>
   </tr>
