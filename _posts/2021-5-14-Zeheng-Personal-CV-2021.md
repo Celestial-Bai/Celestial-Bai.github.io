@@ -19,7 +19,7 @@ tags:								#标签
       <p><b>Department of Computer Science</b></p>
       <p><b>The University of Tokyo</b></p>
       <p><b> Mail：<br/>
-      <img src="https://github.com/Celestial-Bai/Celestial-Bai.github.io/raw/master/mail.png" width="20%"></b></p>
+      <img src="https://github.com/Celestial-Bai/Celestial-Bai.github.io/raw/master/mail.png" width="40%"></b></p>
     </td>
     <td width="25%">
       <img src="https://github.com/Celestial-Bai/Celestial-Bai.github.io/raw/master/Profile.jpg" width="100%">   
