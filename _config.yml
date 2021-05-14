@@ -20,8 +20,6 @@ RSS: false
 # weibo_username:     qiubaiying
 zhihu_username:     luo-xie-zhu-zhong-yu
 github_username:    Celestial-Bai
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
@@ -95,8 +93,8 @@ service-worker: true
 
 
 
-# Friends
-friends: [
+# Links
+links: [
     {
         title: "Lab Page",
         href: "http://www.hm-intelligence.com"
