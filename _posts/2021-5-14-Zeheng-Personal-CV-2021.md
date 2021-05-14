@@ -13,15 +13,15 @@ tags:								#标签
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="60%">
       <h1>Zeheng Bai</h1>
       <p><b>M1 Student</b></p>
       <p><b>Department of Computer Science</b></p>
       <p><b>The University of Tokyo</b></p>
       <p><b> Mail：<br/>
-      <img src="https://github.com/Celestial-Bai/Celestial-Bai.github.io/raw/master/image.png" width="60%"></b></p>
+      <img src="https://github.com/Celestial-Bai/Celestial-Bai.github.io/raw/master/mail.png" width="40%"></b></p>
     </td>
-    <td width="25%">
+    <td width="40%">
       <img src="https://github.com/Celestial-Bai/Celestial-Bai.github.io/raw/master/Profile.jpg" width="100%">   
     </td>
   </tr>
@@ -50,8 +50,8 @@ White Papers on Chinese Medicine Big Data Industry Development 2019, White Paper
 
 ## Research Experience
 ### Test and improvements for VIBRANT　　　Oct 2020 - Present
-### The University of Tokyo, Tokyo, Japan 
-### Research assistant, Advisor: 
+#### The University of Tokyo, Tokyo, Japan 
+#### Research assistant, Advisor: 
 Prof. Seiya Imoto, Professor of Human Genome Center, Institute of Medical Science, The University of Tokyo  
 Prof. Yaozhong Zhang, Associate Professor of Human Genome Center, Institute of Medical Science, The University
 of Tokyo  
@@ -63,8 +63,8 @@ Made some assumptions try to improve VIBRANT, like using XGBoost or XLNet
 
 
 ### The Relationship between Air Quality and Epidemic Diseases in Taiwan　　　Nov 2018 - Jul 2020
-### Renmin University of China, Beijing, China 
-### Research assistant, Advisor: 
+#### Renmin University of China, Beijing, China 
+#### Research assistant, Advisor: 
 Prof. Yang Li, Vice Dean of School of Statistics, Renmin University of China  
 Prof. Ben-Chang Shia, Vice Precident, Fu Jen Catholic University  
 Prof. Feifei Wang, Lecturer of School of Statistics, Renmin University of China  
@@ -76,8 +76,8 @@ Found the relationship between air quality and respiratory diseases using diseas
 Taught the new members about data visualization make some improvements of the codes and make great progress of the coding ability; We could finish the whole task of data cleaning and data visualization in only one day  
 
 ### White Papers on Chinese Medicine Big Data Industry Development 2019　　　Jul 2019 - Nov 2019 
-### Peking University, Beijing, China 
-### Research assistant, Supervisor: 
+#### Peking University, Beijing, China 
+#### Research assistant, Supervisor: 
 Prof. Xiaohua Zhou, Director of Department of Biostatistics, Peking University, Director of TCM Big Data Center  
 Dr. Xinting Huang, Assistant Director of TCM Big Data Center  
 Got the data of the programs about Traditional Chinese Medicine Big Data carried on by Chinese companies by web crawler using Python   
@@ -87,8 +87,8 @@ White Papers on Chinese Medicine Big Data Industry Development 2019: Enterprise 
 
 
 ### Active Healthy Living and the Aging Population in China　　　Jun 2019 - Jul 2019
-### Renmin University of China, Beijing, China 
-### Research assistant, Supervisor:
+#### Renmin University of China, Beijing, China 
+#### Research assistant, Supervisor:
 Prof. Xiaojun Wang, Dean of School of Statistics, Renmin University of China  
 Prof. Feifei Wang, Lecturer of School of Statistics, Renmin University of China  
 Got the data about people's feeling towards the Active Healthy Living and the Aging Population in China by Distributed Web Crawler using Python  
@@ -97,7 +97,7 @@ Proposed an improved emotion analysis model which was more suitable for our proj
 
 ## Internships
 ### Meituan Co. LTD　　　Beijing, China　　　Oct 2020 - Feb 2021
-### Data Product Manager Intern
+#### Data Product Manager Intern
 Standardized the naming and definition of metrics  
 Provided data sheets for the company leaders  
 Completed iteration of data products  
@@ -105,14 +105,14 @@ Guaranteed the timeliness of the output of daily newspapers and standardized the
 guarantee  
 
 ### Xiaomi Technology Co. LTD　　　Beijing, China　　　Nov 2019 - Feb 2020
-### Data Analyst Intern
+#### Data Analyst Intern
 To be in charge of the data about the Xiaomi Overseas App Store (GetApps)  
 To save those data by Hive, whose codes are similar to SQL  
 To make the reports on the strategies this can increase our income from Mi App Store  
 I also make some attempts on other approaches, like LSTM, and I also improved some codes on Mi Data Factory System.  
 
 ### China Railway Construction Investment Fund Management Co., Ltd.　　　Beijing, China　　　Jan 2019 - Feb 2019
-### Software Engineer Intern, Section of Technology and Development 
+#### Software Engineer Intern, Section of Technology and Development 
 Got familiar with the functions of the APP (China Railway Construction Financial Services)  
 Tried to understand the codes of the APP  
 Helped them to find the errors about the APP by running it on several kinds of smart phones  
