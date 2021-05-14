@@ -1,3 +1,16 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      Zeheng Personal CV 				# 标题 
+subtitle:   The first page of my new personal website #副标题
+date:       2021-5-14 				# 时间
+author:     Zeheng 						# 作者
+header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - Study
+    - Research
+---
+
 <table border="0">
   <tr>
     <td width="75%">
