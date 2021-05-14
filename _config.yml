@@ -97,7 +97,7 @@ service-worker: true
 
 
 # Friends
-LINKS: [
+links: [
     {
         title: "Lab Page",
         href: "http://www.hm-intelligence.com"
