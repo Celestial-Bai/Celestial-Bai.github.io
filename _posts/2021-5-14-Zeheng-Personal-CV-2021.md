@@ -124,10 +124,10 @@ Probability and Statistics in Biology and Public Health (A+) Introduction to Neu
 
 ## More
 ### Programming Skills & Software
-C(Matered), Python(Basic), Visual Basic(Matered), MySQL(Proficient), R(Proficient), HiveSQL(Proficient), SPSS(Proficient), Stata(Proficient), Office(Proficient)  
+Visual Basic(Basic), C(Mastered), Python(Proficient), R(Proficient), MySQL(Proficient), HiveSQL(Proficient), SPSS(Proficient), Stata(Proficient), Office(Proficient)  
 ### Languages
 Mandarin Chinese(Native), English (Fluent), Japanese(Basic)  
 ### Personal Interests
 Photography: I like taking photos by camera. I have a SONY a7m3  
 Orienteering: I was assistant captain of the orienteering team when I was in high school  
-Esports: I am the fan of Shanghai Dragons and I also made some assistance for them before.  
+Esports: I am the fan of Shanghai Dragons and I also made some assistance for them before  
