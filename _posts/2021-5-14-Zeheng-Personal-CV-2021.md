@@ -22,7 +22,7 @@ tags:								#标签
       <img src="mail.png" width="40%"></b></p>
     </td>
     <td width="40%">
-      <img src="https://github.com/Celestial-Bai/Celestial-Bai.github.io/raw/master/Profile.jpg" width="100%">   
+      <img src="Profile.jpg" width="100%">   
     </td>
   </tr>
 </table>
