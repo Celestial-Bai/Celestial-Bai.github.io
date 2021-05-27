@@ -19,7 +19,7 @@ tags:								#标签
       <p><b>Department of Computer Science</b></p>
       <p><b>The University of Tokyo</b></p>
       <p><b> Mail：<br/>
-      <img src="https://github.com/Celestial-Bai/Celestial-Bai.github.io/raw/master/mail.png" width="40%"></b></p>
+      <img src="mail.png" width="40%"></b></p>
     </td>
     <td width="40%">
       <img src="https://github.com/Celestial-Bai/Celestial-Bai.github.io/raw/master/Profile.jpg" width="100%">   
@@ -124,10 +124,10 @@ Probability and Statistics in Biology and Public Health (A+) Introduction to Neu
 
 ## More
 ### Programming Skills & Software
-C(Matered), Python(Basic), Visual Basic(Matered), MySQL(Proficient), R(Proficient), HiveSQL(Proficient), SPSS(Proficient), Stata(Proficient), Office(Proficient)  
+Visual Basic(Basic), C(Mastered), Python(Proficient), R(Proficient), MySQL(Proficient), HiveSQL(Proficient), SPSS(Proficient), Stata(Proficient), Office(Proficient)  
 ### Languages
 Mandarin Chinese(Native), English (Fluent), Japanese(Basic)  
 ### Personal Interests
 Photography: I like taking photos by camera. I have a SONY a7m3  
 Orienteering: I was assistant captain of the orienteering team when I was in high school  
-Esports: I am the fan of Shanghai Dragons and I also made some assistance for them before.  
+Esports: I am the fan of Shanghai Dragons and I also made some assistance for them before  
