@@ -40,7 +40,9 @@ Profile: [English Version](https://github.com/Celestial-Bai/Celestial-Bai.github
 Master Degree, Department of Computer Science, Graduate School of Information Science and Technology, the University of Tokyo　　　 2021 - 2023  
 Research Student, Graduate School of Information Science and Technology & Institute of Medical Science, the University of Tokyo　　　 2020 - 2021  
 Bachelor Degree, (Mathematical) Statistics, School of Statistics, Renmin University of China　　　 2016 - 2020  
-Graduated from Beijing Experimental High School Attached to Beijing Normal University　　　 2013 - 2016  
+Graduated from Beijing Experimental High School Attached to Beijing Normal University　　　 2013 - 2016    
+  
+Student Member, Japanese Association for Medical Artifical Intelligence
 
 ## Research Interests
 Bioinformatics, Machine Learning & Deep Learning, Biostatistics, Mathematical Statistics
