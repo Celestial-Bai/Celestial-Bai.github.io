@@ -4,7 +4,7 @@ SEOTitle: 哈娜的博客 | Zeheng Blog
 header-img: img/post-bg-desk.jpg
 description: "Every failure is leading towards success."
 keyword: "Zeheng, Zeheng Blog, 哈娜的博客, baizeheng, 宋哈娜, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+url: "http://celestial-bai.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
